@@ -7,7 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE html>
 <html>
 <head>
-<title>Goofy Traveller</title>
+<title>Goofy</title>
 <link href="css/owl.carousel.css" rel='stylesheet' type='text/css'/>
 <link href="css/bootstrap.css" rel='stylesheet' type='text/css'/>
 <link href="css/stylee.css" rel="stylesheet" type="text/css" media="all"/>
