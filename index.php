@@ -27,7 +27,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <script>
  new WOW().init();
 </script>
-<!--/animated-css-->
+
 </head>
 <body>
 <!--header-->
