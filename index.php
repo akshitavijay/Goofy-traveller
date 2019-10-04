@@ -31,7 +31,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 </head>
 <body>
 <!--header-->
-<!--sticky-->
+
 <?php include('function.php'); ?>
 
 <?php include('top.php'); ?>
